@@ -1,0 +1,12 @@
+.App {
+  width: 100vw;
+  height: 86.3vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}

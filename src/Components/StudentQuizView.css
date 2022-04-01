@@ -1,0 +1,25 @@
+.studentQuizView {
+    height: 100%;
+    width: 100%;
+    margin: auto;
+    font-size: large;  
+}
+
+.studentQuizView .Title {
+    font-size: 15px;
+    display: flex;
+    padding-left: 5%;
+}
+
+.studentQuizView .TeacherComment {
+    font-size: 15px;
+    display: flex;
+    padding-left: 5%;
+}
+
+.studentQuizView .Comment {
+    padding-left: 5%;
+    background-color: rgb(93, 102, 57);
+    margin-right: 50%;
+    height: 200px;
+}
